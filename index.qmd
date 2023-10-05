@@ -1,11 +1,17 @@
 ---
 title: "Welcome!"
+image: "photo.jpg"
+
+about: 
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/olena-bogdan-b056391bb/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/olenabg03"
+    - text: Email
+      url: "mailto:olenabg@stanford.edu"
+    - text: CV
+      url: "resume.pdf"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
