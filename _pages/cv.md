@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my resume [here](https://olenabg.github.io/files/resume_Olena.docx).
+You can find my resume [here](https://olenabg.github.io/files/resume_short.pdf).
