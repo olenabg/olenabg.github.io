@@ -21,12 +21,12 @@ repository               : "olenabg/olenabg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Olena Bogdan_Sept_2022_01.jpg"
   name             : "Olena V. Bogdan"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at Harvard University"
   location         : "Cambridge, MA"
-  employer         : ""
+  employer         : #
   uri              : # URL
   email            : "obogdan@g.harvard.edu" 
 
