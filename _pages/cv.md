@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my resume [here](https://olenabg.github.io/files/resume_short.pdf).
+You can download my resume [here](https://olenabg.github.io/files/resume_short.pdf).
+
+<embed src="{{ site.baseurl }}/files/resume_short.pdf" width="650" height="800" type='application/pdf'>
