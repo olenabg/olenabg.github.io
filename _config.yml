@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Olena V. Bogdan"
 title_separator          : "-"
 name                     : &name "Olena V. Bogdan"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "olenabg/olenabg.github.io"
 author:
   # Biographic information
   avatar           : "Olena Bogdan_Sept_2022_01.jpg"
-  name             : "Olena V. Bogdan"
+  name             : #"Olena V. Bogdan"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at Harvard University"
   location         : "Cambridge, MA"
