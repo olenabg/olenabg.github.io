@@ -12,7 +12,7 @@ title                    : "Olena V. Bogdan"
 title_separator          : "-"
 name                     : &name "Olena V. Bogdan"
 description              : &description "personal description"
-url                      : https://olenabg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://olenabogdan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olenabg/olenabg.github.io"
 
