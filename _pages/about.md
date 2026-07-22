@@ -9,7 +9,7 @@ redirect_from:
 
 Hi!
 
-I am a first year Economics PhD student at Harvard. My interests lie in the intersection of financial economics and IO. 
+I am a third year Economics PhD student at Harvard. My interests lie in the intersection of financial economics and IO. 
 
 Before joining Harvard, I was a research fellow in finance at Stanford Graduate School of Business. During my time there, I collaborated closely with Professor Chenzi Xu on the digitization of Banking Almanacs spanning from 1850 to the 1990s.
 
